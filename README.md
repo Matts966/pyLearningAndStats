@@ -1,0 +1,2 @@
+# pyLearningAndStats
+pythonでおべんきょう
